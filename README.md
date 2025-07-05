@@ -64,7 +64,7 @@ The future of prosthetics lies in responsiveness and intuitiveness. This project
 
 ## 📽️ Demo Video
 
-[▶️ Click here to watch the demo](https://www.youtube.com/watch?v=0-vUgKT5vcs)
+[![Watch the video](https://img.youtube.com/vi/0-vUgKT5vcs/0.jpg)](https://www.youtube.com/watch?v=0-vUgKT5vcs)
 
 ---
 
