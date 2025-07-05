@@ -52,13 +52,19 @@ The future of prosthetics lies in responsiveness and intuitiveness. This project
 
 ---
 
-## 🔌 Schematic
+## 📷 Images
 
-> **Note:** Upload schematic images to the `images/` folder and embed them like below:
->  
-> `![Schematic](images/emg-schematic.png)`
+### Schematic  
+![Schematic](images/schematic.png)
 
-![Schematic Example](images/emg-schematic.png)
+### Final Project  
+![Completed Prototype](images/completed-project.jpg)
+
+---
+
+## 📽️ Demo Video
+
+[▶️ Click here to watch the demo](https://www.youtube.com/watch?v=0-vUgKT5vcs)
 
 ---
 
@@ -124,17 +130,3 @@ EMG-based prosthetics represent a huge advancement in assistive technology. Our 
 - https://www.electronicshub.org/speed-and-direction-control-of-dc-motor-using-arduino/  
 
 ---
-
-## 📁 Folder Structure Suggestion
-
-```
-EMG-Prosthetic-Hand/
-├── README.md
-├── images/
-│   ├── emg-schematic.png
-│   ├── emg-demo.png
-├── code/
-│   └── emg_control.ino
-└── documents/
-    └── EMG_Report.pdf
-```
