@@ -55,7 +55,7 @@ The future of prosthetics lies in responsiveness and intuitiveness. This project
 ## 📷 Images
 
 ### Schematic  
-![Schematic](images/schematic.png)
+![Schematic](images/schematic.jpg)
 
 ### Final Project  
 ![Completed Prototype](images/completed-project.jpg)
